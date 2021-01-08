@@ -1,0 +1,1 @@
+go build -o ./output/bin/ip_to_int main.go
